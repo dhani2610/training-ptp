@@ -1709,18 +1709,9 @@
     <link rel="icon" type="image/svg+xml" href="{{ asset('favicon.svg') }}">
     <link rel="alternate icon" href="{{ asset('favicon.ico') }}">
 
-    <!-- Google Search Console Verification -->
-    <meta name="google-site-verification" content="t7DrDVxa-7c35f-TjQ9tZz6IiTHpLxc_Q6QNVopbYBA" />
+    
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EWBWEXKSJ1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-EWBWEXKSJ1');
-    </script>
+    
 </head>
 <body>
 
